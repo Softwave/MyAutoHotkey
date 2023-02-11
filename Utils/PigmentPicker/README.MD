@@ -1,10 +1,12 @@
 # PigmentPicker 
 
-A little utility for picking colours from the display. 
+A teeny tiny Windows utility for picking colours from the display. Press 'control', 'alt', and 'p' at once to activate it, and then simply click anywhere to pick a colour and put it in your clipboard.
 
 ![Screenshot](https://raw.githubusercontent.com/Softwave/MyAutoHotkey/main/Utils/PigmentPicker/screens/1.png)
 
 Thanks to the developers of [AutoHotkey](https://www.autohotkey.com/) for making such a nice little language.
+
+![Screenshot](https://raw.githubusercontent.com/Softwave/MyAutoHotkey/main/Utils/PigmentPicker/screens/2.png)
 
 ## ImagePut Credit
 
