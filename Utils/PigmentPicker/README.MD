@@ -2,6 +2,8 @@
 
 A little utility for picking colours from the display. 
 
+![Screenshot](https://raw.githubusercontent.com/Softwave/MyAutoHotkey/main/Utils/PigmentPicker/screens/1.png)
+
 Thanks to the developers of [AutoHotkey](https://www.autohotkey.com/) for making such a nice little language.
 
 ## ImagePut Credit
